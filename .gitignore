@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+resultados/
+resultados_sinteticos/
+dados/sintetica.csv
+# LaTeX
+artigo/*.aux
+artigo/*.bbl
+artigo/*.blg
+artigo/*.log
+artigo/*.out
+artigo/*.synctex.gz
+artigo/main.pdf
+# base original (não versionada)
+dados/*.xlsx
+dados/clientes.csv
